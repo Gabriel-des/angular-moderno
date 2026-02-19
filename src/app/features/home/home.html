@@ -2,4 +2,6 @@
 
 @for (item of transactions(); track $index) {
     <app-transaction-item [transaction]="item" />
+} @empty {
+    <app-no-transactions />
 }
