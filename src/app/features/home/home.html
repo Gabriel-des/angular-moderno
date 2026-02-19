@@ -2,7 +2,7 @@
 
 <div class="transactions-container">
     @for (item of transactions(); track $index) {
-        <app-transaction-item [transaction]="item" />
+        <app-transaction-item class="transaction" [transaction]="item" />
     } @empty {
         <app-no-transactions />
     }
