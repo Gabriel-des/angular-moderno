@@ -1,18 +1,6 @@
 {
   "transactions": [
     {
-      "title": "Salário teste edit",
-      "type": "income",
-      "value": 2000,
-      "id": 1
-    },
-    {
-      "id": 2,
-      "title": "Aluguel",
-      "value": 1000,
-      "type": "outcome"
-    },
-    {
       "title": "Mercado",
       "type": "outcome",
       "value": 100,
@@ -29,18 +17,6 @@
       "type": "outcome",
       "value": 2,
       "id": 5
-    },
-    {
-      "title": "teste snack",
-      "type": "income",
-      "value": 2000,
-      "id": 6
-    },
-    {
-      "title": "teste criação",
-      "type": "outcome",
-      "value": 2000,
-      "id": 7
     }
   ]
 }
