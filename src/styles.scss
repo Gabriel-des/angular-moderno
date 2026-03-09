@@ -8,6 +8,7 @@
 @use './styles/theme-colors' as theme-colors;
 @use './styles/override/toolbar';
 @use './styles/override/snack-bar';
+@use './styles/override/button';
 @use './styles/custom-colors';
 
 html {
